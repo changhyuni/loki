@@ -338,6 +338,7 @@ to include only the most relevant.
 * [4606](https://github.com/grafana/loki/pull/4606) **kavirajk**: Execute Loki queries on raw log data piped to stdin
 
 #### Lambda-Promtail
+* [7239](https://github.com/grafana/loki/pull/7239) **changhyuni**: lambda-promtail: Add kinesis data stream to use in terraform 
 * [5065](https://github.com/grafana/loki/pull/5065) **AndreZiviani**: lambda-promtail: Add ability to ingest logs from S3
 
 #### Fluent Bit
